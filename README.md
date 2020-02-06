@@ -2,7 +2,7 @@
 
 ## TODOs
 - [X] hellogit
-- [ ] learnyounode
+- [X] learnyounode
 - [X] javascripting
 
 ```bash
