@@ -2,8 +2,10 @@
 
 ## TODOs
 - [X] hellogit
-- [ ] learnyounode
+- [X] learnyounode
 - [X] javascripting
+- [X] markdown
+- [X] express
 
 ```bash
 npm run start-learnyounode
