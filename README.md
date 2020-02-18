@@ -4,6 +4,8 @@
 - [X] hellogit
 - [X] learnyounode
 - [X] javascripting
+- [X] markdown
+- [X] expresswork
 
 ```bash
 npm run start-learnyounode
