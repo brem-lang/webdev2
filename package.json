@@ -1,0 +1,25 @@
+{
+  "name": "@brem/brem",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "how-to-npm",
+    "play": "npm install",
+    "first": "how-to-npm verify",
+    "test": "node test.js",
+    "test1": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "description": "brem",
+  "repository": {
+    "type": "git",
+    "url": "brem"
+  }
+}
