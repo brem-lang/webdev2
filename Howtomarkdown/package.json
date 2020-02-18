@@ -1,0 +1,38 @@
+{
+  "name": "howtomarkdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "how-to-markdown",
+    "verify": "how-to-markdown verify file.md",
+    "verify1": "how-to-markdown verify file1.md",
+    "verify2": "how-to-markdown verify file2.md",
+    "verify3": "how-to-markdown verify file3.md",
+    "verify4": "how-to-markdown verify file4.md",
+    "verify5": "how-to-markdown verify file5.md",
+    "verify6": "how-to-markdown verify file6.md",
+    "verify7": "how-to-markdown verify file7.md",
+    "verify8": "how-to-markdown verify file8.md",
+    "verify9": "how-to-markdown verify file9.md",
+    "verify10": "how-to-markdown verify file10.md",
+    "verify11": "how-to-markdown verify file11.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "how-to-markdown": "^1.6.0",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denryl/webdev2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/denryl/webdev2/issues"
+  },
+  "homepage": "https://github.com/denryl/webdev2#readme",
+  "description": ""
+}
